@@ -1,0 +1,1 @@
+<template>yo soy el pepe</template>
